@@ -2,7 +2,7 @@
 
 Systems integration and software engineering intern working on human-reviewed AI automation.
 
-**Portfolio · writeups · demos:** [rohananand.site](https://rohananand.site)
+**Portfolio · writeups · demos:** [rohananand.xyz](https://rohananand.xyz)
 
 ## Work
 
@@ -19,4 +19,4 @@ Swift / SwiftUI · Python (FastAPI, pytest, OpenCV) · SQLite · TypeScript / Ja
 
 ## Where the code is
 
-My principal repositories back production systems or employer work, so they are private or closed-source. Architecture, outcomes, and demonstrations are available through [my portfolio](https://rohananand.site).
+My principal repositories back production systems or employer work, so they are private or closed-source. Architecture, outcomes, and demonstrations are available through [my portfolio](https://rohananand.xyz).
